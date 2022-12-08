@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">AAM18_LAB6</string>
+    <string name="Введите_название_службы">Введите поле поиска</string>
+    <string name="Загрузка_данных">Загрузка данных…</string>
+    <string name="Выход">Выход</string>
+    <string name="Написать_предложение_автору">Написать предложение автору</string>
+    <string name="myemail">proffix4@gmail.com</string>
+    <string name="Добавьте_еще_номер">Добавьте еще номер</string>
+    <string name="Предлагаю_такой_номер">Предлагаю такой номер в вашу программу:</string>
+    <string name="Посылка_письма">Посылка письма…</string>
+    <string name="Нет_установленного_почтового_клиента">Нет установленного почтового клиента, увы (</string>
+    <string name="Большой_шрифт">Большой шрифт</string>
+
+    <string-array name="Filter">
+        <item>По всем</item>
+        <item>По названию</item>
+        <item>По категории</item>
+        <item>По количеству мест</item>
+        <item>По высоте салона</item>
+        <item>По дальности</item>
+        <item>По взлетному весу</item>
+    </string-array>
+</resources>
